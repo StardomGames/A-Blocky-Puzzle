@@ -1,1 +1,3 @@
-# A-Blocky-Puzzle
+# A Blocky Puzzle
+## A Fun 2D Puzzle Game!
+### Don't Worry It's Bad On Purpose...
